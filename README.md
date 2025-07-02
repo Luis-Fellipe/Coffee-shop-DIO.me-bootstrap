@@ -31,7 +31,7 @@ Neste projeto, foram praticados:
 
 ## 🔗 Link do Projeto
 
-📍 [Visualizar projeto no GitHub Pages](https://luis-fellipe.github.io/Coffee-shop-DIO.me-bootstrap/)  
+📍 [Visualizar projeto no GitHub Pages](https://luis-fellipe.github.io/coffee-shop-bootstrap/)  
 
 ---
 
