@@ -42,8 +42,10 @@ Neste projeto, foram praticados:
 > *Imagem ilustrativa da versão desktop.*
 
 ### Versão Mobile  
-![Prévia Mobile](assets/images/preview-cell.png)  
-> *Imagem ilustrativa da versão mobile.*
+<div align="center">
+  <img src="assets/images/preview-cell.png" alt="Prévia Mobile" />
+  <p><em>Imagem ilustrativa da versão mobile.</em></p>
+</div>
 
 ---
 
